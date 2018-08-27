@@ -13,4 +13,4 @@ For gazebo simulation this file is launched automatically by the launchers from 
 
 ## License
 
-This software is provided by Génération Robots http://www.generationrobots.com and HumaRobotics http://www.humarobotics.com under the Simplified BSD license
+This software is provided by Génération Robots http://www.generationrobots.com and HumaRobotics http://www.humarobotics.com under the Simplified BSD license. Original software has been modified by Nathan Boyd.
